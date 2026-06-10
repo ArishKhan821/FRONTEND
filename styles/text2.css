@@ -1,0 +1,36 @@
+p{
+        width: 190px;
+        font-family: Arial;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    
+
+    .one{
+        font-size: 30px;
+    }
+    .two{
+        font-size: 18px;
+        color: grey;
+        margin-left: 5px;
+    }
+    .three{
+        font-size: 16px;
+        color: green;
+       
+        
+    }
+    .four{
+        color: grey;
+        
+        
+        
+    }
+    .five{
+        color: red;
+    }
+    .another{
+        width: 250px;
+
+    }
+
